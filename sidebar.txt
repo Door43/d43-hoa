@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[hoa:home|Door43 (hoa)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-hoa|d43-hoa repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-hoa/archive/master.zip|d43-hoa.zip]]
+
+**Recent Changes**
+{{changes>ns = hoa}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/hoa|Ethnologue data]]
+
